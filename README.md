@@ -2,7 +2,7 @@
 An RPI3-based Software-Defined Network designed with an Automated Intrusion Detection System
 
 For easy navigation, refer to the following links below:
-- [About the Project](#ProjectDescriptionandObjectives)
+- [About the Project](#Project-Description-and-Objectives)
 - 
 
 ## Project Description and Objectives
