@@ -6,10 +6,10 @@ For easy navigation, refer to the following links below:
 - [Network Architecture](#network-architecture)
 
 ## Project Description and Objectives
-This project aims to do the following:
-- Interface a software-defined network using a Raspberry Pi 3 as a switch
-- Train an Artificial Intelligence using the Random Forest Regression Model to detect ping floods (ICMP, UDP, and TCP flooding)
-- Integrate the model into the Intrusion Detection System to block flooding and malicious connections
+This project aims to automate the security of software-defined networks using AI, specifically through the Random Forest AI Model. The AI Model must be able to distinguish between normal packet flow and flooded packet flow along three different protocols: ICMP, TCP, and UDP. Specifically, it aims to:
+1. Interface a software-defined network using a Raspberry Pi 3 as a switch
+2. Train an Artificial Intelligence using the Random Forest Regression Model to detect ping floods (ICMP, UDP, and TCP flooding)
+3. Integrate the model into the Intrusion Detection System to block flooding and malicious connections
 
 ## Network Architecture
 <img width="577" height="475" alt="Screenshot 2026-02-18 at 2 40 07 PM" src="https://github.com/user-attachments/assets/e5136a62-c1ce-4ecb-a13b-09f6cca44fb7" />
