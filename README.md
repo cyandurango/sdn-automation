@@ -1,4 +1,4 @@
-# sdn_automation | An RPI3-based Software-Defined Network designed with an Automated Intrusion Detection and Blocking System
+# sdn-automation | An RPI3-based Software-Defined Network designed with an Automated Intrusion Detection and Blocking System
 This project aims to create a software-defined network using an RPi3 as a switch and implementing a Random Forest AI Model into the IDS for automated flood detection and blocking. 
 
 For easy navigation, refer to the following links below:
